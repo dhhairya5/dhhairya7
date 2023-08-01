@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning web devlopment,competitive programming  ...
 - 💞️ I’m looking to collaborate on different projects based on problem solving using devlopment and DSA...
 - 📫 How to reach me  Linkedin -  linkedin.com/in/dhhairya-shukla-58291a23b
--                    LinkedIn- https://www.linkedin.com/in/dhhairya-shukla-58291a23b/
+-                    LinkedIn- https://[My Resume (1).pdf](https://github.com/dhhairya5/dhhairya5/files/12232870/My.Resume.1.pdf)
+     www.linkedin.com/in/dhhairya-shukla-58291a23b/
 -                    
 
 <!---
